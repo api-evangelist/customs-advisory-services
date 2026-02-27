@@ -1,0 +1,118 @@
+name: Customs Advisory Services API
+description: APIs for managing customs advisory services, trade compliance, and regulatory guidance
+image: https://example.com/images/customs-advisory-logo.png
+url: https://api.customsadvisory.com
+created: '2024-01-15'
+modified: '2024-01-15'
+tags:
+- customs
+- trade compliance
+- advisory services
+- tariff classification
+- import/export
+- regulatory
+apis:
+- name: Tariff Classification API
+  description: Provides HS code classification and tariff rate lookups for products
+  image: https://example.com/images/tariff-api.png
+  humanURL: https://customsadvisory.com/tariff-classification
+  baseURL: https://api.customsadvisory.com/v1/tariff
+  tags:
+  - HS codes
+  - tariff rates
+  - classification
+  properties:
+  - type: Documentation
+    url: https://docs.customsadvisory.com/tariff-classification
+  - type: OpenAPI
+    url: https://api.customsadvisory.com/openapi/tariff.yaml
+  - type: Authentication
+    url: https://docs.customsadvisory.com/authentication
+  contact:
+  - FN: Tariff API Support
+    email: tariff-api@customsadvisory.com
+    X-twitter: customsadvisory
+- name: Trade Compliance API
+  description: Manages compliance requirements, restricted party screening, and export controls
+  image: https://example.com/images/compliance-api.png
+  humanURL: https://customsadvisory.com/trade-compliance
+  baseURL: https://api.customsadvisory.com/v1/compliance
+  tags:
+  - compliance
+  - sanctions
+  - export controls
+  - screening
+  properties:
+  - type: Documentation
+    url: https://docs.customsadvisory.com/trade-compliance
+  - type: OpenAPI
+    url: https://api.customsadvisory.com/openapi/compliance.yaml
+  - type: Sandbox
+    url: https://sandbox.customsadvisory.com/v1/compliance
+  contact:
+  - FN: Compliance API Support
+    email: compliance-api@customsadvisory.com
+- name: Advisory Services API
+  description: Access to customs advisory consultations, rulings database, and expert guidance
+  image: https://example.com/images/advisory-api.png
+  humanURL: https://customsadvisory.com/advisory-services
+  baseURL: https://api.customsadvisory.com/v1/advisory
+  tags:
+  - advisory
+  - consultations
+  - rulings
+  - expert guidance
+  properties:
+  - type: Documentation
+    url: https://docs.customsadvisory.com/advisory-services
+  - type: OpenAPI
+    url: https://api.customsadvisory.com/openapi/advisory.yaml
+  - type: Pricing
+    url: https://customsadvisory.com/pricing
+  contact:
+  - FN: Advisory API Support
+    email: advisory-api@customsadvisory.com
+- name: Duty Calculator API
+  description: Calculates duties, taxes, and fees for international shipments
+  image: https://example.com/images/duty-calc-api.png
+  humanURL: https://customsadvisory.com/duty-calculator
+  baseURL: https://api.customsadvisory.com/v1/duty-calculator
+  tags:
+  - duty calculation
+  - taxes
+  - fees
+  - shipping costs
+  properties:
+  - type: Documentation
+    url: https://docs.customsadvisory.com/duty-calculator
+  - type: OpenAPI
+    url: https://api.customsadvisory.com/openapi/duty-calculator.yaml
+  - type: Rate Limits
+    url: https://docs.customsadvisory.com/rate-limits
+  contact:
+  - FN: Calculator API Support
+    email: calculator-api@customsadvisory.com
+common:
+- type: Getting Started
+  url: https://docs.customsadvisory.com/getting-started
+- type: Authentication
+  url: https://docs.customsadvisory.com/authentication
+- type: Status Page
+  url: https://status.customsadvisory.com
+- type: Terms of Service
+  url: https://customsadvisory.com/terms
+- type: Privacy Policy
+  url: https://customsadvisory.com/privacy
+- type: Support
+  url: https://support.customsadvisory.com
+- type: Blog
+  url: https://blog.customsadvisory.com
+- type: Change Log
+  url: https://docs.customsadvisory.com/changelog
+- type: SDKs
+  url: https://docs.customsadvisory.com/sdks
+maintainers:
+- FN: Customs Advisory Services
+  email: api@customsadvisory.com
+  X-twitter: customsadvisory
+  X-github: customs-advisory
