@@ -3,7 +3,7 @@ description: APIs for managing customs advisory services, trade compliance, and 
 image: https://example.com/images/customs-advisory-logo.png
 url: https://api.customsadvisory.com
 created: '2024-01-15'
-modified: '2024-01-15'
+modified: '2026-03-16'
 tags:
 - customs
 - trade compliance
@@ -112,7 +112,5 @@ common:
 - type: SDKs
   url: https://docs.customsadvisory.com/sdks
 maintainers:
-- FN: Customs Advisory Services
-  email: api@customsadvisory.com
-  X-twitter: customsadvisory
-  X-github: customs-advisory
+- FN: Kin Lane
+  email: kin@apievangelist.com
