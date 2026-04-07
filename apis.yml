@@ -6,12 +6,12 @@ url: https://api.customsadvisory.com
 created: '2024-01-15'
 modified: '2026-03-16'
 tags:
-  - customs
-  - trade compliance
-  - advisory services
-  - tariff classification
-  - import/export
-  - regulatory
+  - Advisory Services
+  - Customs
+  - Import/Export
+  - Regulatory
+  - Tariff Classification
+  - Trade Compliance
 apis:
   - name: Tariff Classification API
     description: >-
@@ -20,9 +20,9 @@ apis:
     humanURL: https://customsadvisory.com/tariff-classification
     baseURL: https://api.customsadvisory.com/v1/tariff
     tags:
-      - HS codes
-      - tariff rates
-      - classification
+      - Classification
+      - HS Codes
+      - Tariff Rates
     properties:
       - type: Documentation
         url: https://docs.customsadvisory.com/tariff-classification
@@ -41,10 +41,10 @@ apis:
     humanURL: https://customsadvisory.com/trade-compliance
     baseURL: https://api.customsadvisory.com/v1/compliance
     tags:
-      - compliance
-      - sanctions
-      - export controls
-      - screening
+      - Compliance
+      - Export Controls
+      - Sanctions
+      - Screening
     properties:
       - type: Documentation
         url: https://docs.customsadvisory.com/trade-compliance
@@ -62,10 +62,10 @@ apis:
     humanURL: https://customsadvisory.com/advisory-services
     baseURL: https://api.customsadvisory.com/v1/advisory
     tags:
-      - advisory
-      - consultations
-      - rulings
-      - expert guidance
+      - Advisory
+      - Consultations
+      - Expert Guidance
+      - Rulings
     properties:
       - type: Documentation
         url: https://docs.customsadvisory.com/advisory-services
@@ -83,10 +83,10 @@ apis:
     humanURL: https://customsadvisory.com/duty-calculator
     baseURL: https://api.customsadvisory.com/v1/duty-calculator
     tags:
-      - duty calculation
-      - taxes
-      - fees
-      - shipping costs
+      - Duty Calculation
+      - Fees
+      - Shipping Costs
+      - Taxes
     properties:
       - type: Documentation
         url: https://docs.customsadvisory.com/duty-calculator
