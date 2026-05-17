@@ -1,6 +1,6 @@
 aid: customs-advisory-services
 name: Customs Advisory Services
-x-type: topic
+kind: topic
 description: >-
   Customs advisory services help importers, exporters, and trade professionals
   navigate complex customs regulations, tariff classifications, valuation
