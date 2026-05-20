@@ -42,6 +42,8 @@ tags:
   - Valuation
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/customs-advisory-services-inc-
   - type: WCOWebsite
     url: https://www.wcoomd.org/
   - type: HSNomenclature
