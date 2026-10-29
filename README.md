@@ -1,4 +1,4 @@
-# Customs Advisory Services (customs-advisory-services)
+# customs-advisory-services
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,59 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Customs advisory services help importers, exporters, and trade professionals navigate tariff classification, valuation, country-of-origin determination, free trade agreement qualification, and trade compliance obligations. Advisory work is delivered by licensed customs brokers, trade attorneys, the Big Four firms, specialized trade consultancies, and through the rulings and guidance published by national customs authorities. APIs in this space are typically embedded in global trade management (GTM) and customs broker platforms rather than offered as standalone advisory APIs.
+## customs-advisory-services on APIs.io
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/customs-advisory-services/refs/heads/main/apis.yml)
+Everything profiled for customs-advisory-services is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/customs-advisory-services/](https://apis.io/providers/customs-advisory-services/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** Public
-- **x-type:** topic
+Not yet rated. See [apis.io/providers/customs-advisory-services/](https://apis.io/providers/customs-advisory-services/).
 
-## Tags
+## How this profile is made
 
-- Advisory Services, Country of Origin, Customs, Customs Brokers, Customs Rulings, Duty Drawback, Export Controls, Free Trade Agreements, Global Trade Management, HS Codes, Import Export, Restricted Party Screening, Sanctions, Tariff Classification, Trade Compliance, Valuation
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for customs-advisory-services: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2024-01-15
-- **Modified:** 2026-04-28
+## Open an issue
 
-## APIs
-
-No standalone customs advisory APIs are catalogued here. The advisory function is generally bundled into larger trade compliance and global trade management platforms, customs broker software, and the rulings databases of national customs authorities.
-
-## Authoritative References
-
-- [World Customs Organization](https://www.wcoomd.org/)
-- [WCO Harmonized System Nomenclature](https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx)
-- [CBP Customs Rulings Online Search System (CROSS)](https://rulings.cbp.gov/)
-- [CBP Informed Compliance Publications](https://www.cbp.gov/trade/rulings/informed-compliance-publications)
-- [U.S. Harmonized Tariff Schedule](https://hts.usitc.gov/)
-- [Bureau of Industry and Security (BIS) Export Controls](https://www.bis.doc.gov/)
-- [OFAC Sanctions Programs](https://ofac.treasury.gov/)
-- [Consolidated Screening List](https://www.trade.gov/consolidated-screening-list)
-- [EU Taxation and Customs Union](https://taxation-customs.ec.europa.eu/)
-- [EU TARIC Tariff](https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/eu-customs-tariff-taric_en)
-
-## Industry Associations
-
-- [National Customs Brokers and Forwarders Association of America (NCBFAA)](https://www.ncbfaa.org/)
-- [Canadian Society of Customs Brokers (CSCB)](https://www.cscb.ca/)
-
-## Vocabulary
-
-- **HS Code (Harmonized System Code)** — Standard six-digit product classification under the WCO Harmonized System.
-- **HTS Code** — U.S. Harmonized Tariff Schedule, a 10-digit extension of HS used to determine duty rates.
-- **Country of Origin** — Country where goods were produced, manufactured, or grown; key for FTA eligibility and marking.
-- **Customs Valuation** — Determining the dutiable value of imported goods (typically transaction value).
-- **Free Trade Agreement (FTA)** — Bilateral or multilateral agreements granting preferential duty rates (USMCA, CPTPP, etc.).
-- **Restricted Party Screening (RPS)** — Process of checking parties against denied/sanctioned lists.
-- **Customs Ruling** — Binding written decision by customs authority on classification, valuation, or origin.
-
-## Maintainers
-
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/customs-advisory-services/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
